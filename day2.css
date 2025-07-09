@@ -1,0 +1,30 @@
+.mot {background-color:#FFF68F;
+  color:	#2C3E50;
+  border: 5px solid	#DAA520;
+  text-align: center;
+  font-size:25px;
+}
+.buoisang{background-color:#FFD39B;
+  color:	#333333;
+  border: 5px solid	#FF9933;
+  padding-left: 50px;}
+#ba
+{font-weight: 600;}
+.buoitrua {background-color:#FFCCFF;
+border: 5px solid #CC66CC;
+padding-left: 50px;}
+#bon{
+  font-weight:600;
+}
+h2{color: #CC9900;}
+#trua{color:#FF3366;}
+.buoichieu{background-color:#33FF99;
+border: 5px solid #009900;
+padding-left: 50px;
+}
+#nam{
+  font-weight:600;
+}
+#chieu{
+  color:#339900;
+}
